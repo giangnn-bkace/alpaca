@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>alpaca</folder>
+	<filename>alpaca171.jpg</filename>
+	<path>C:\Giang\ObjectDetection\alpaca\alpaca171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alpaca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>117</ymin>
+			<xmax>492</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+</annotation>
